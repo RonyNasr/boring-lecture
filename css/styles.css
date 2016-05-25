@@ -1,0 +1,22 @@
+h1{
+  font-family: 'monospace', cursive;
+  text-align: center;
+  color:brown;
+}
+img.intro{
+  width: 800px;
+}
+
+h2.intro{
+  font-family: 'sans-serif', cursive;
+  text-align: center;
+  color:orange;
+}
+
+p{
+  font-family: fantasy;
+}
+
+p.intro{
+  font-style: italic;
+}
